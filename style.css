@@ -30,7 +30,7 @@ body {
      display: flex;
      align-items: center;
      justify-content: center;
-     width: 50%;
+     width: 80%;
 }
  .instagram-phone img {
      height: 40rem;
@@ -109,7 +109,7 @@ body {
      align-items: center;
      justify-content: center;
      width: 100%;
-     padding: 1.3rem 0;
+     padding: 2rem 0;
  }
 
  .download {
@@ -117,7 +117,7 @@ body {
      width: 100%;
      justify-content: space-evenly;
      align-items: center;
-     padding: 1rem;
+     padding: 0,0rem;
  }
 
  .app-download {
@@ -161,5 +161,6 @@ body {
      .group {
          border: 1px solid transparent;
      }
+
  }
 
